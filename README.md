@@ -1,2 +1,1 @@
-# pythonProject
- Python studies projects
+My Python courses projects 
